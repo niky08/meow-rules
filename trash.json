@@ -1,0 +1,38 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain": [
+        "dns.msftncsi.com",
+        "fastly.net",
+        "google-analytics.com",
+        "grok.com",
+        "stripe.com"
+      ],
+      "domain_suffix": [
+        ".akadns.net",
+        ".akamai.net",
+        ".cloudflareinsights.com",
+        ".cloudfront.net",
+        ".compute.amazonaws.com",
+        ".cookielaw.org",
+        ".edgesuite.net",
+        ".fastly-edge.com",
+        ".fastly.net",
+        ".gemini.google.com",
+        ".google-analytics.com",
+        ".google.com",
+        ".googletagmanager.com",
+        ".grok.com",
+        ".gstatic.com",
+        ".ipv6.microsoft.com",
+        ".l.google.com",
+        ".msftconnecttest.com",
+        ".msftncsi.com",
+        ".onetrust.com",
+        ".stripe.com",
+        ".twilio.com"
+      ]
+    }
+  ]
+}
