@@ -1,0 +1,13 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain": [
+        "livekit.grok.com"
+      ],
+      "domain_suffix": [
+        ".livekit.cloud"
+      ]
+    }
+  ]
+}
