@@ -1,0 +1,39 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain": [
+        "app-analytics-services.com",
+        "bag.itunes.apple.com",
+        "gs-loc.apple.com",
+        "oauth2.googleapis.com",
+        "oauthaccountmanager.googleapis.com",
+        "redirector.googlevideo.com",
+        "rr1---sn-aj5go5-5i.googlevideo.com",
+        "rr2---sn-aj5go5-5i.googlevideo.com",
+        "rr4---sn-u15hn5-cc.googlevideo.com",
+        "suggestqueries.google.com",
+        "tether.edge.apple",
+        "youtubei.googleapis.com"
+      ],
+      "domain_suffix": [
+        ".app-analytics-services.com",
+        ".ggpht.com",
+        ".googleapis.com",
+        ".googlevideo.com",
+        ".gs-loc.apple.com",
+        ".itunes.apple.com",
+        ".ytimg.com",
+        ".youtube.com"
+      ],
+      "domain_keyword": [
+        "googlevideo"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "2a03:2880:f277:1c7:face:b00c:0:7260/128"
+      ]
+    }
+  ]
+}
