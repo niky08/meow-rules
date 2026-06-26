@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "chrome.cloudflare-dns.com",
+        "dns.adguard-dns.com",
+        "dns.adguard.com",
+        "dns.google",
+        "dns.google.com",
+        "dns.mozilla.net",
+        "dns.quad9.net",
+        "doh.cleanbrowsing.org",
+        "doh.dns.apple.com",
+        "doh.opendns.com",
+        "family.cloudflare-dns.com",
+        "mozilla.cloudflare-dns.com",
+        "one.one.one.one",
+        "security.cloudflare-dns.com"
+      ],
+      "domain_suffix": [
+        "cloudflare-dns.com",
+        "dns.nextdns.io"
+      ]
+    }
+  ]
+}

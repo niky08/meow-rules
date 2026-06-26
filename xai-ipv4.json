@@ -1,0 +1,17 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain": [
+        "accounts.x.ai",
+        "api.x.ai",
+        "assets.x.ai",
+        "grok.x.ai",
+        "x.ai"
+      ],
+      "domain_suffix": [
+        ".x.ai"
+      ]
+    }
+  ]
+}

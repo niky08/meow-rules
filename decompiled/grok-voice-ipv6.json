@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "assets.grok.com",
+        "cdn.grok.com",
+        "grok.com",
+        "livekit.grok.com"
+      ],
+      "domain_suffix": [
+        ".grokusercontent.com",
+        ".livekit.cloud"
+      ]
+    }
+  ]
+}
