@@ -1,0 +1,33 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain": [
+        "aistudio.google.com",
+        "api.browser.yandex.ru",
+        "clients6.google.com",
+        "clientservices.googleapis.com",
+        "content.googleapis.com",
+        "mtalk.google.com",
+        "pancake.apple.com",
+        "play.google.com",
+        "redirector.googlevideo.com",
+        "report.appmetrica.yandex.net",
+        "waa-pa.clients6.google.com"
+      ],
+      "domain_suffix": [
+        ".aistudio.google.com",
+        ".clients6.google.com",
+        ".appmetrica.yandex.net",
+        ".browser.yandex.ru"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "149.154.167.51/32",
+        "149.154.167.223/32",
+        "2001:67c:4e8:f002::b/128"
+      ]
+    }
+  ]
+}
