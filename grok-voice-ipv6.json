@@ -3,10 +3,14 @@
   "rules": [
     {
       "domain": [
+        "grok.com",
+        "cdn.grok.com",
+        "assets.grok.com",
         "livekit.grok.com"
       ],
       "domain_suffix": [
-        ".livekit.cloud"
+        ".livekit.cloud",
+        ".grokusercontent.com"
       ]
     }
   ]
