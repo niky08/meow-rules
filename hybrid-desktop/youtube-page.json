@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "i.ytimg.com",
+        "m.youtube.com",
+        "notifications-pa.googleapis.com",
+        "s.youtube.com",
+        "suggestqueries.google.com",
+        "wide-youtube.l.google.com",
+        "www.gstatic.com",
+        "www.youtube.com",
+        "youtube-ui.l.google.com",
+        "youtube.googleapis.com",
+        "youtubeembeddedplayer.googleapis.com",
+        "youtubei.googleapis.com",
+        "yt3.ggpht.com",
+        "yt3.googleusercontent.com"
+      ],
+      "domain_suffix": [
+        ".ggpht.cn",
+        ".ggpht.com",
+        ".googleusercontent.com",
+        ".youtube-nocookie.com",
+        ".youtube.com",
+        ".ytimg.com",
+        "youtu.be"
+      ],
+      "domain_keyword": [
+        "ytimg",
+        "ggpht",
+        "youtube",
+        "withyoutube",
+        "youtubego",
+        "youtubekids",
+        "youtubegaming",
+        "youtubefanfest",
+        "youtubeeducation",
+        "youtubemobile"
+      ]
+    }
+  ]
+}

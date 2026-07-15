@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "redirector.googlevideo.com",
+      "domain_suffix": "googlevideo.com",
+      "domain_keyword": "googlevideo",
+      "domain_regex": "(?i)^(?:[a-z0-9.-]+\\.)*googlevideo\\.com$"
+    }
+  ]
+}

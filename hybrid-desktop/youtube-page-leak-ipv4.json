@@ -1,0 +1,35 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain": [
+        "i.ytimg.com",
+        "m.youtube.com",
+        "notifications-pa.googleapis.com",
+        "oauth2.googleapis.com",
+        "oauthaccountmanager.googleapis.com",
+        "play.googleapis.com",
+        "s.youtube.com",
+        "suggestqueries.google.com",
+        "tpc.googlesyndication.com",
+        "www.gstatic.com",
+        "www.youtube.com",
+        "yt3.ggpht.com",
+        "yt3.googleusercontent.com",
+        "youtube.googleapis.com",
+        "youtubei.googleapis.com"
+      ],
+      "domain_suffix": [
+        ".ggpht.com",
+        ".googleusercontent.com",
+        ".googlesyndication.com",
+        ".ytimg.com",
+        ".youtube.com"
+      ],
+      "domain_keyword": [
+        "ytimg",
+        "ggpht"
+      ]
+    }
+  ]
+}
