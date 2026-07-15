@@ -1,32 +1,7 @@
 {
-  "version": 2,
+  "version": 3,
   "rules": [
     {
-      "domain": [
-        "i.ytimg.com",
-        "m.youtube.com",
-        "notifications-pa.googleapis.com",
-        "s.youtube.com",
-        "suggestqueries.google.com",
-        "wide-youtube.l.google.com",
-        "www.gstatic.com",
-        "www.youtube.com",
-        "youtube-ui.l.google.com",
-        "youtube.googleapis.com",
-        "youtubeembeddedplayer.googleapis.com",
-        "youtubei.googleapis.com",
-        "yt3.ggpht.com",
-        "yt3.googleusercontent.com"
-      ],
-      "domain_suffix": [
-        ".ggpht.cn",
-        ".ggpht.com",
-        ".googleusercontent.com",
-        ".youtube-nocookie.com",
-        ".youtube.com",
-        ".ytimg.com",
-        "youtu.be"
-      ],
       "domain_keyword": [
         "ytimg",
         "ggpht",
@@ -38,6 +13,42 @@
         "youtubefanfest",
         "youtubeeducation",
         "youtubemobile"
+      ],
+      "domain_suffix": [
+        ".ytimg.com",
+        ".ggpht.com",
+        ".ggpht.cn",
+        ".youtube.com",
+        ".youtu.be",
+        ".youtube-nocookie.com",
+        ".googleusercontent.com",
+        ".gvt1.com",
+        ".gvt2.com"
+      ],
+      "domain": [
+        "youtu.be",
+        "youtube.com",
+        "www.youtube.com",
+        "m.youtube.com",
+        "s.youtube.com",
+        "studio.youtube.com",
+        "i.ytimg.com",
+        "s.ytimg.com",
+        "yt3.ggpht.com",
+        "yt4.ggpht.com",
+        "yt3.googleusercontent.com",
+        "lh3.googleusercontent.com",
+        "youtubei.googleapis.com",
+        "youtube.googleapis.com",
+        "youtubeembeddedplayer.googleapis.com",
+        "youtube-ui.l.google.com",
+        "wide-youtube.l.google.com",
+        "suggestqueries.google.com",
+        "www.gstatic.com",
+        "notifications-pa.googleapis.com",
+        "play.googleapis.com",
+        "gvt1.com",
+        "gvt2.com"
       ]
     }
   ]
